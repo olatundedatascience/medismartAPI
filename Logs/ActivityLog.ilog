@@ -1,0 +1,43 @@
+﻿
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:04:41.0906079+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:10:13.2681348+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:11:46.363521+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:14:38.9378245+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:15:49.9782791+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:18:35.3562445+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Abiodun","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Abiodun","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Abiodun","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Abiodun Omolara","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"abiodun_omolara@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Abiodun Omolara","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Omonigho Justice","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"justice_ogo@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		update student request details:- {"Id":0,"FirstName":"Omonigho","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		Deleting student request details:- {"Id":4,"FirstName":"Omonigho","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		Deleting student request details:- {"Id":1,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		Deleting student request details:- {"Id":3,"FirstName":"Abiodun Omolara","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"olatundeor@gmail.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T13:21:41.5381382","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"akintunde","LastName":"bimbo","DateOfBirth":"2003-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"string","DateRegistered":"2020-10-29T15:50:11.9633443+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"Abayomi","LastName":"Blessing","DateOfBirth":"2013-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"500","DateRegistered":"2020-10-29T15:50:42.0372795+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"Abayomi","LastName":"Blessing","DateOfBirth":"2013-03-03T00:00:00","EmailAddress":"user@example.com","Country":"Nigeria","Department":"Nigeria","Level":"500","DateRegistered":"2020-10-29T17:23:27.6592185+01:00","Faculty":"Physics","GuardianName":"Tunde"}		}}
+
+INFO:{{		adding student request details:- {"Id":0,"FirstName":"Raimi","LastName":"Aliu","DateOfBirth":"2020-03-13T00:00:00","EmailAddress":"Raimialiu428@gmail.com","Country":"string","Department":"string","Level":"string","DateRegistered":"2020-10-29T17:36:29.7113039+01:00","Faculty":"string","GuardianName":"string"}		}}
